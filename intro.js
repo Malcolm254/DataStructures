@@ -1,3 +1,3 @@
-console.log("Name: GitHub Copilot");
-console.log("Age: 1");
+console.log("Name: Malcolm Zephaniah");
+console.log("Age: 23");
 console.log("Favorite Programming Language: JavaScript");
